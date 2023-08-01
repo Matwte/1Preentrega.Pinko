@@ -1,0 +1,15 @@
+.navbar {
+    display: flex; 
+    justify-content: space-around;
+    padding: 50px;
+    background-color: blueviolet;
+    border: solid black 5px;
+}
+.zapa {
+    height: 50px;
+}
+
+
+
+
+
